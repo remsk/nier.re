@@ -58,6 +58,7 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #d29797;;
+  text-decoration: unset;
 }
 </style>
